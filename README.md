@@ -2,8 +2,6 @@
 I am Eve, previously known as LenEnjoyer and (in my really early days) MS3, my pronouns are mainly she/her.
 
 I got my start in coding Scratch projects as a kid, and now have the same fun with 👻**real code**👻 ! If you want to learn more about me as a person, [my website](https://bottom.monster) is your next stop :)
-## Contact
-My email is eve@bottom.monster
 
 # Projects
 Here is an incomplete projects you might be looking for:
@@ -23,3 +21,6 @@ Here is an incomplete projects you might be looking for:
 * ONE Clock [repo-os5](https://github.com/TheCoolerMS3/hfjone-clock) [gallery](https://gallery.fitbit.com/details/f8d7c96d-a68c-4695-abda-c1d5c27b1067)
 ## Other
 * Mikuddy Discord Bot [repo](https://github.com/TheCoolerMS3/mikuddyjs)
+
+# Contact
+My email is eve@bottom.monster
