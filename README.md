@@ -10,7 +10,7 @@ Here is an incomplete projects you might be looking for:
 * 🔻 Dhilly Game Website [repo](https://github.com/TheCoolerMS3/dhillygame-website) [url](https://dhillygame.co.uk)
 * 💙 Miku and More Website [repo](https://github.com/TheCoolerMS3/mikuam) [url](https://mikuam.uk)
 ## 🎮 GB Studio Games
-(Expecting more? They're long gone. I have *some* old source files in my Google Drive but it's all too messy to share at the moment. Contact me if you think you may need those.)
+(Expecting more? Check out https://github.com/TheCoolerMS3/dhilly-game-2021-assets )
 * 🐱 MS3 Game [repo](https://github.com/TheCoolerMS3/MS3-Game)
 * 🟦 Dhilly Game 6 Remake [repo](https://github.com/TheCoolerMS3/DhillyGame6-Remake) [url](https://dhillygame.co.uk/6)
 ## ⌚ Fitbit OS Applications
