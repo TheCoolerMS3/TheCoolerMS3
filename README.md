@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f1e8d75f-00f5-4899-ac1e-ed83a49801d7)
+
 # Hello!! Welcome :)
 I am Eve, previously known as LenEnjoyer and (in my really early days) MS3. My pronouns are mainly she/her.
 
