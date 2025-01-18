@@ -1,5 +1,3 @@
-# Hi there :)
-
 ## About Me
 I am Eve, previously known as LenEnjoyer and (in my really early days) MS3, my pronouns are mainly she/her.
 
