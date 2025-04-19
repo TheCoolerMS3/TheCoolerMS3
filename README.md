@@ -10,7 +10,7 @@ I got my start in coding Scratch projects as a kid, and now have the same fun wi
 * Moto G14, Android 14
 * Fitbit Sense, Fitbit OS 5.3
 
-Here is an incomplete list of projects you might be looking for:
+### Here is an incomplete list of projects you might be looking for:
 ## 🖥️ Websites
 * 🖥️ Personal Site [repo](https://github.com/TheCoolerMS3/eve-website) [url](https://bottom.monster)
 * 🧊 Ice OS Website [repo](https://github.com/TheCoolerMS3/eve-website) [url](https://bottom.monster/iceos/)
