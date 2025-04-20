@@ -6,8 +6,8 @@ I am Eve, previously known as LenEnjoyer and (in my really early days) MS3. My p
 I got my start in coding Scratch projects as a kid, and now have the same fun with 👻**real code**👻 ! If you want to learn more about me as a person, [my website](https://bottom.monster) is your next stop :)
 
 ## The GEAR
-* **Lenovo Ideapad 1**, Ryzen 5 7520U, 16gb, 512gb, Linux Mint 22.1
-* **Moto G14**, Unisoc T616, 4gb, 128gb, Android 14
+* **Lenovo Ideapad 1**, Ryzen 5 7520U, 16gb, 512gb, Linux Mint 22.1 "Xia"
+* **Moto G14**, Unisoc T616, 4gb, 128gb, Android 14 "Upside Down Cake"
 * **Fitbit Sense**, Fitbit FBT18SW, 128mb, 4gb, Fitbit OS 5.3
 
 ### Here is an incomplete list of projects you might be looking for:
