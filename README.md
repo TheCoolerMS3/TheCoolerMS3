@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/f1e8d75f-00f5-4899-ac1e-ed83a49801d7)
 
-[CHECK OUT MY WEBSITE](https://eve.motorcycles)
+[CHECK OUT MY WEBSITE TO SEE OF MUH PROJECTS](https://eve.motorcycles)
 
 # Dhilly Game
 Scraps from the first five games, and other stuff from that time: [dhilly-game-2021-assets](https://github.com/TheCoolerMS3/dhilly-game-2021-assets)
