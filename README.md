@@ -1,4 +1,3 @@
-This is the official "Eve" GitHub. I put scraps of source code here because open source is awesome. [Check out my portfolio for more.](https://eve.motorcycles)
 
 # Dhilly Game
 Scraps from the first five games, and other stuff from that time: [dhilly-game-2021-assets](https://github.com/TheCoolerMS3/dhilly-game-2021-assets)
