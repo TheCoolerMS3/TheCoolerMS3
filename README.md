@@ -1,8 +1,8 @@
 
 # Dhilly Game
-Scraps from the first five games, and other stuff from that time: [dhilly-game-2021-assets](https://github.com/TheCoolerMS3/dhilly-game-2021-assets)
+2021 era Dhilly Game assets: [dhilly-game-2021-assets](https://github.com/TheCoolerMS3/dhilly-game-2021-assets)
 
-MS3 Game (a spinoff): [MS3-Game](https://github.com/TheCoolerMS3/MS3-Game)
+MS3 Game (a Dhilly Game spinoff): [MS3-Game](https://github.com/TheCoolerMS3/MS3-Game)
 
 Dhilly Game 6 Remake: [DhillyGame6-Remake](https://github.com/TheCoolerMS3/DhillyGame6-Remake)
 
